@@ -2,7 +2,7 @@
 
 This is for purely educational purposes only. Refer to [std::collections::HashMap](https://doc.rust-lang.org/std/collections/struct.HashMap.html) for proper implementation.
 
-console```
+``` console
 cargo run ./t8.shakespeare_short.txt
 ```
 
